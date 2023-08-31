@@ -4,7 +4,7 @@
 
 I currently work as an integrated circuit design and verification engineer at AMD. I have a passion for computer architecture and hardware acceleration. My hobbies include bodybuilding, photography, playing the drums, and keeping up with recent product releases.
 - 🔭 Check out my publications here: [Publications](https://scholar.google.com/citations?user=oGxgnxcAAAAJ&hl=en)
-- 📷 Check out my photography here: [Photography][course](https://samirmitha.com/photography)
+- 📷 Check out my photography here: [Photography](https://samirmitha.com/photography)
 - 🎨 Check out my artwork here: [Artwork](https://samirmitha.com/wallpapers-1)
 
 ### Connect with me:
