@@ -1,71 +1,25 @@
-### Hello! I'm Samir.
+# Hello! I'm Samir.
 
-I currently work as an integrated circuit design and verification engineer at AMD. I have a passion for computer architecture and hardware acceleration. My hobbies include bodybuilding, photography, and keeping up with recent product releases.
+## About
 
-## Software Skills
-- Scripting
-  - Python
-    - Deep Learning
-    - Machine Learning
-    - Image Processing
-    - Automation
-    - Desktop App Development
-- Bash
-  - Automation
-- Perl
-  - Automation
-- MATLAB
-  - Machine Learning
-  - Image Processing
-  - Automation
-  - Desktop App Development
-- HDL
-  - VHDL
-    - RTL
-  - Verilog
-    - RTL
-  - SystemVerilog
-    - UVM
-    - Formal
-    - SVA
-    - Functional Coverage
-  - TCL
-- Object Oriented
-  - C/C++
-    - OpenCL
-    - Makefiles
-  - Java
-    - Android Apps
-  - Data Management
-    - SQL
-    - Spark
-    - Hadoop
+I currently work as an integrated circuit design and verification engineer at AMD. I have a passion for computer architecture and hardware acceleration. My hobbies include bodybuilding, photography, playing the drums, and keeping up with recent product releases.
+- 🔭 Check out my publications here: [Publications](https://scholar.google.com/citations?user=oGxgnxcAAAAJ&hl=en)
+- 📷 Check out my photography here: [Photography][course](https://samirmitha.com/photography)
+- 🎨 Check out my artwork here: [Artwork](https://samirmitha.com/wallpapers-1)
 
-## Hardware Skills
-- Computer Architecture
-  - Reconfigurable Computing Systems
-    - FPGA
-    - CPLD
-  - Heterogeneous Computing
-    - Assembly Language
-    - Drivers
-    - Graphics Acceleration
-    - AI Acceleration
-- Microcontrollers
-  - SystemC
-  - DAC / ADC
+### Connect with me:
 
-<!--
-**SamirMitha/SamirMitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![website](./img/globe-light.svg)](https://samirmitha.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://samirmitha.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/samir_mitha#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/samir_mitha#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](linkedin.com/in/samirmitha#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](linkedin.com/in/samirmitha#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/samir_mitha#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/samir_mitha#gh-dark-mode-only)
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
