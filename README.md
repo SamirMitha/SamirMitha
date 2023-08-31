@@ -15,8 +15,8 @@ I currently work as an integrated circuit design and verification engineer at AM
 [![website](./img/twitter-light.svg)](https://twitter.com/samir_mitha#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/samir_mitha#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](linkedin.com/in/samirmitha#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](linkedin.com/in/samirmitha#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/samirmitha#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/samirmitha#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/samir_mitha#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/samir_mitha#gh-dark-mode-only)
